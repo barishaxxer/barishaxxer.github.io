@@ -61,6 +61,8 @@ With extensive experience in advanced penetration testing and red teaming, I spe
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
+
+
 ## Desire to knowledge
 ---
 Driven by an insatiable thirst for knowledge, I am deeply committed to understanding technology from the ground up. Whether it's machine language, assembly, or the intricacies of computer architecture, I am determined to build a comprehensive foundation in these areas, even as I continue to master new skills. This core passion for learning fuels my desire to not only stay ahead in the ever-evolving cybersecurity landscape but also to grasp the underlying principles that drive modern computing.
