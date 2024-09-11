@@ -61,4 +61,4 @@ Our foundation stands as an unyielding force in the realm of cybersecurity, rele
 
 ## About Code & Shield(C&S)
 ---
-<span style="color: gold;">C&S </span>operates under the 0xByteStream Foundatigoldith a mission to disseminate advanced knowledge across the IT field. Our platform is dedicated to providing in-depth articles, technical write-ups, and comprehensive coding tutorials designed for seasoned IT professionals. With a focus on high-level insights and authoritative content, C&S aims to be a cornerstone for those seeking to deepen their expertise and stay at the cutting edge of technology.
+<span style="color: gold;">C&S </span>operates under the 0xByteStream Foundation with a mission to disseminate advanced knowledge across the IT field. Our platform is dedicated to providing in-depth articles, technical write-ups, and comprehensive coding tutorials designed for seasoned IT professionals. With a focus on high-level insights and authoritative content, C&S aims to be a cornerstone for those seeking to deepen their expertise and stay at the cutting edge of technology.
