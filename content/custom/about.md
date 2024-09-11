@@ -12,7 +12,7 @@ author = { name = "barishaxxer", social = "https://github.com/barishaxxer"}
 
 <style>body {text-align: justify}
 </style>
-# Whoami¿
+# whoami
 ---
 I'm Barış Can Kaya, a dedicated red teamer and cybersecurity enthusiast with a profound passion for offensive security, network defense, and ethical hacking. My journey in cybersecurity began with my curiosity about alternative operating systems, having initially been a Microsoft products user. Over time, this curiosity evolved into a deep fascination with Linux and the broader IT world.
 
@@ -44,7 +44,23 @@ I'm Barış Can Kaya, a dedicated red teamer and cybersecurity enthusiast with a
 ## Skills
 ---
 With extensive experience in advanced penetration testing and red teaming, I specialize in identifying vulnerabilities and simulating sophisticated cyberattacks.<span style="color: blue;"> My strong coding skills in Python and Java, coupled with comprehensive knowledge of Linux environments and networking protocols, enable me to develop secure and resilient systems.</span> I thrive on tackling complex security challenges, continually expanding my expertise in threat hunting, penetration testing, and cybersecurity automation.
-
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  </a>
+</p>
 ## Desire to knowledge
 ---
 Driven by an insatiable thirst for knowledge, I am deeply committed to understanding technology from the ground up. Whether it's machine language, assembly, or the intricacies of computer architecture, I am determined to build a comprehensive foundation in these areas, even as I continue to master new skills. This core passion for learning fuels my desire to not only stay ahead in the ever-evolving cybersecurity landscape but also to grasp the underlying principles that drive modern computing.
