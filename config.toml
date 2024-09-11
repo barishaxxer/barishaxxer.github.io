@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://barishaxxer.github.io"
+base_url = "https://barishaxxer.github.io/"
 
 # The site title and description; used in feeds by default.
 title = "Code & Shield: Insights into Hacking and Software Development"
