@@ -60,7 +60,16 @@ With extensive experience in advanced penetration testing and red teaming, I spe
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   </a>
-</p>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/htm
+  
+  </p>
 
 
 ## Desire to knowledge
