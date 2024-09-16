@@ -10,7 +10,7 @@ tags = ["whoami", "0xByteStream", "About", "Code & Shield"]
 author = { name = "barishaxxer", social = "https://github.com/barishaxxer"}
 +++
 
-style>body {text-align: justify}
+<style>body {text-align: justify}
 .image-row {
   display: flex;
   justify-content: flex-start;
