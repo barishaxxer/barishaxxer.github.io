@@ -11,17 +11,23 @@ author = { name = "barishaxxer", social = "https://github.com/barishaxxer"}
 +++
 
 <style>body {text-align: justify}
+
+  .image-container{
+    display: flex;
+    justify-content: flex-start; 
+  }
+
 </style>
 # whoami
 ---
 I'm Barış Can Kaya, a dedicated red teamer and cybersecurity enthusiast with a profound passion for offensive security, network defense, and ethical hacking. My journey in cybersecurity began with my curiosity about alternative operating systems, having initially been a Microsoft products user. Over time, this curiosity evolved into a deep fascination with Linux and the broader IT world.
 
+<div class="image-row">
 [ ![hacker](/icons/hacker.png)](https://www.hackerrank.com/profile/bariscankaxxer)
 
 <script src="https://tryhackme.com/badge/2438537"></script>   
 [ ![barishaxxer](https://www.hackthebox.eu/badge/image/1724058)](https://app.hackthebox.com/profile/1724058)
-
-
+</div>
 
 
 <!DOCTYPE html>
