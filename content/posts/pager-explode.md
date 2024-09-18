@@ -53,14 +53,14 @@ Pager Network: Acts as the media through which<br> signals are transmitted<br>RF
 ## Anatomy of the Attack
 ---
 
-1. Information Gathering: Israeli intelligence likely identified the specific frequencies used by Hezbollah’s pagers.
-2. Analyse: The explosions occurred almost simultaneously which signs a highly coordinated attack.
-3. Signal Dispatch and Exploitation: 
+1. Information Gathering: Israeli intelligence likely identified the specific frequencies used by Hezbollah’s pagers.<br>
+2. Analyse: The explosions occurred almost simultaneously which signs a highly coordinated attack.<br>
+3. Signal Dispatch and Exploitation: <br>
     - Theory #1
-        - To overload the pagers Israel would have sent powerful RF signals causing them malfunction and overheat the battery which leads to explode of ion.
+        - To overload the pagers Israel would have sent powerful RF signals causing them malfunction and overheat the battery which leads to explode of ion.<br>
     - Theory #2 (High Possibilty)
-	-  Given a source close to the militant group has claimed, asking not to be identified, told AFP that “the pagers that exploded concern a shipment recently imported by Hezbollah of 1,000 devices, which appear to have been sabotaged at source.”
-	- Thus, **there is a high chance that pagers used by Hezbollah had been physically compromised before and explosives have been mounted to pagers by manipulating production process.**
+	-  Given a source close to the militant group has claimed, asking not to be identified, told AFP that “the pagers that exploded concern a shipment recently imported by Hezbollah of 1,000 devices, which appear to have been sabotaged at source.”<br>
+	- Thus, **there is a high chance that pagers used by Hezbollah had been physically compromised before and explosives have been mounted to pagers by manipulating production process.**<br>
 	- If the devices were preconfigured to react to specific signals, Israeli intelligence could have broadcasted a triggering signal, causing all devices to blast simultaneously.
 
 ## Conclusion
