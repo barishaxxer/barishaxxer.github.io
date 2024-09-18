@@ -54,6 +54,7 @@ Pager Network: Acts as the media through which<br> signals are transmitted<br>RF
 ---
 
 1. Information Gathering: Israeli intelligence likely identified the specific frequencies used by Hezbollah’s pagers.
+   
 2. Analyse: The explosions occurred almost simultaneously which signs a highly coordinated attack.
 3. Signal Dispatch and Exploitation: 
     - Theory #1
