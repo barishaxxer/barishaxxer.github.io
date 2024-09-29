@@ -14,6 +14,14 @@
         <loc>https://barishaxxer.github.io/posts/</loc>
     </url>
     <url>
+        <loc>https://barishaxxer.github.io/posts/calculus-notes/</loc>
+        <lastmod>2024-09-29</lastmod>
+    </url>
+    <url>
+        <loc>https://barishaxxer.github.io/posts/mvn-jdk-netbeans/</loc>
+        <lastmod>2024-09-23</lastmod>
+    </url>
+    <url>
         <loc>https://barishaxxer.github.io/posts/pager-explode/</loc>
         <lastmod>2024-09-17</lastmod>
     </url>
@@ -27,10 +35,28 @@
         <loc>https://barishaxxer.github.io/tags/about/</loc>
     </url>
     <url>
+        <loc>https://barishaxxer.github.io/tags/algebra/</loc>
+    </url>
+    <url>
+        <loc>https://barishaxxer.github.io/tags/calculus/</loc>
+    </url>
+    <url>
         <loc>https://barishaxxer.github.io/tags/code-shield/</loc>
     </url>
     <url>
         <loc>https://barishaxxer.github.io/tags/cyber-attack/</loc>
+    </url>
+    <url>
+        <loc>https://barishaxxer.github.io/tags/java/</loc>
+    </url>
+    <url>
+        <loc>https://barishaxxer.github.io/tags/math/</loc>
+    </url>
+    <url>
+        <loc>https://barishaxxer.github.io/tags/maven/</loc>
+    </url>
+    <url>
+        <loc>https://barishaxxer.github.io/tags/netbeans/</loc>
     </url>
     <url>
         <loc>https://barishaxxer.github.io/tags/network/</loc>
@@ -43,6 +69,9 @@
     </url>
     <url>
         <loc>https://barishaxxer.github.io/tags/sigint/</loc>
+    </url>
+    <url>
+        <loc>https://barishaxxer.github.io/tags/tmcbeans/</loc>
     </url>
     <url>
         <loc>https://barishaxxer.github.io/tags/whoami/</loc>
