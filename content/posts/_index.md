@@ -1,5 +1,5 @@
 +++
-path = "posts"
+paginate_path = "posts"
 template = "posts.html"
 transparent = true
 sort_by = "date"
