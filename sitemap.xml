@@ -33,6 +33,10 @@
         <lastmod>2024-09-17</lastmod>
     </url>
     <url>
+        <loc>https://barishaxxer.github.io/posts/windows-ad/</loc>
+        <lastmod>2025-01-05</lastmod>
+    </url>
+    <url>
         <loc>https://barishaxxer.github.io/tags/</loc>
     </url>
     <url>
@@ -42,6 +46,9 @@
         <loc>https://barishaxxer.github.io/tags/about/</loc>
     </url>
     <url>
+        <loc>https://barishaxxer.github.io/tags/active-directory/</loc>
+    </url>
+    <url>
         <loc>https://barishaxxer.github.io/tags/algebra/</loc>
     </url>
     <url>
@@ -49,6 +56,9 @@
     </url>
     <url>
         <loc>https://barishaxxer.github.io/tags/chemistry/</loc>
+    </url>
+    <url>
+        <loc>https://barishaxxer.github.io/tags/cmd/</loc>
     </url>
     <url>
         <loc>https://barishaxxer.github.io/tags/code-shield/</loc>
@@ -75,6 +85,9 @@
         <loc>https://barishaxxer.github.io/tags/pager/</loc>
     </url>
     <url>
+        <loc>https://barishaxxer.github.io/tags/powershell/</loc>
+    </url>
+    <url>
         <loc>https://barishaxxer.github.io/tags/rf/</loc>
     </url>
     <url>
@@ -85,5 +98,8 @@
     </url>
     <url>
         <loc>https://barishaxxer.github.io/tags/whoami/</loc>
+    </url>
+    <url>
+        <loc>https://barishaxxer.github.io/tags/windows-pentesting/</loc>
     </url>
 </urlset>

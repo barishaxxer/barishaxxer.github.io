@@ -8,24 +8,24 @@
 
     
         <title>
-             Managing JDK Versions and NetBeans&#x2F;Maven Compilation Errors
+             Notes on Windows and Active Directory
             
         </title>
 
         
-            <meta property="og:title" content="Managing JDK Versions and NetBeans&#x2F;Maven Compilation Errors" />
+            <meta property="og:title" content="Notes on Windows and Active Directory" />
         
     
 
     
         
-            <meta property="og:description" content="Explore practical solutions for managing multiple JDK versions, addressing common compilation issues in NetBeans, and resolving Maven-related errors. Whether you&#x27;re juggling different Java development environments or troubleshooting build problems, this guide offers tips and best practices to streamline your workflow." />
+            <meta property="og:description" content="Tips, tricks and knowledge on Windows and Active Directory" />
         
     
 
     
         
-            <meta name="description" content="Explore practical solutions for managing multiple JDK versions, addressing common compilation issues in NetBeans, and resolving Maven-related errors. Whether you&#x27;re juggling different Java development environments or troubleshooting build problems, this guide offers tips and best practices to streamline your workflow." />
+            <meta name="description" content="Tips, tricks and knowledge on Windows and Active Directory" />
         
     
 
@@ -120,12 +120,12 @@
 <main>
     <article>
         <div class="title">
-            <h1 class="title">Managing JDK Versions and NetBeans&#x2F;Maven Compilation Errors</h1>
+            <h1 class="title">Notes on Windows and Active Directory</h1>
             <div class="meta">
                 
                     Published by <a href="https:&#x2F;&#x2F;github.com&#x2F;barishaxxer" target="_blank">barishaxxer</a>
                 
-                on  2024-09-23
+                on  2025-01-05
 
                 
             </div>
@@ -134,14 +134,64 @@
         
 
         <section class="body">
-            <style>
-body{
-
-text-align: justify;
-}
-
-</style>
-<p>explore practical solutions for managing multiple JDK versions, addressing common compilation issues in NetBeans, and resolving Maven-related errors. Whether you're juggling different Java development environments or troubleshooting build problems, this guide offers tips and best practices to streamline your workflow.</p>
+            <p>Windows domain is a group of users and computers.
+The server runs the AD services is know as Domain Controller(DC)</p>
+<img src=/imgs/Active-Directory-1.jpg alt="AD">
+<p>Parts of the AD:</p>
+<p>A <strong>security principal</strong> is any entity that can be authenticated by the operating system which consist of two parts in AD:</p>
+<p>Each security principal is represented in the OS by a unique security identifier (SID).
+Local users and groups are managed by SAM.SAM also stores usernames and passwords.</p>
+<p>Subject: process initiated by the user.
+Object: Resource that user wants to grant access</p>
+<img src=/imgs/securitypr.png alt=Authorization>
+<ul>
+<li>User Accounts</li>
+<li>Machine ( Computer ) Accounts</li>
+</ul>
+<div style="color : red">Users:</div>
+<ul>
+<li>People</li>
+<li>Services</li>
+</ul>
+<div style= "color : red">Machines:</div>
+<p>Machine accounts identified by the following convention MachineName$.
+<br></p>
+<ul>
+<li>DC01$</li>
+<li>DC02$</li>
+</ul>
+<p>In Active Directory, administrative responsibilities are separated into two types:</p>
+<ol>
+<li>Service Administrators</li>
+<li>Data Administrators</li>
+</ol>
+<p>Security Groups:</p>
+<ol>
+<li>Domain Admins:</li>
+</ol>
+<p>Have privleges over the entire domain / any computer including DC.</p>
+<ol start="2">
+<li>Server Operators:</li>
+</ol>
+<p>Members of the Server Operators group can administer domain controllers. This group exists only on domain controllers. By default, the group has no members</p>
+<ol start="3">
+<li>Backup Operators:</li>
+</ol>
+<p>Users in this group are allowed to access any file, ignoring their permissions.</p>
+<ol start="4">
+<li>Account Operators:</li>
+</ol>
+<p>Users in this group can create or modify other accounts in the domain.</p>
+<ol start="5">
+<li>Domain Users:</li>
+</ol>
+<p>Includes all existing user accounts in the domain.</p>
+<ol start="6">
+<li>Domain Computers:</li>
+</ol>
+<p>Includes all existing computers in the domain.</p>
+<p><strong>Organizational units (OUs)</strong> in an Active Directory Domain Services (AD DS) managed domain let you logically group objects. </p>
+<p>OUs are mainly used to define sets of users with similar policing requirements.Security groups are for granting acces on resources.</p>
 
         </section>
 
@@ -150,13 +200,13 @@ text-align: justify;
                 <nav class="nav tags">
                     <ul class="tags">
                         
-                            <li><a href=https://barishaxxer.github.io/tags/java/>Java</a></li>
+                            <li><a href=https://barishaxxer.github.io/tags/windows-pentesting/>Windows Pentesting</a></li>
                         
-                            <li><a href=https://barishaxxer.github.io/tags/maven/>Maven</a></li>
+                            <li><a href=https://barishaxxer.github.io/tags/active-directory/>Active Directory</a></li>
                         
-                            <li><a href=https://barishaxxer.github.io/tags/netbeans/>Netbeans</a></li>
+                            <li><a href=https://barishaxxer.github.io/tags/powershell/>Powershell</a></li>
                         
-                            <li><a href=https://barishaxxer.github.io/tags/tmcbeans/>TMCbeans</a></li>
+                            <li><a href=https://barishaxxer.github.io/tags/cmd/>Cmd</a></li>
                         
                     </ul>
                 </nav>
