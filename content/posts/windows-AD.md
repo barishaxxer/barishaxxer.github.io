@@ -1,7 +1,7 @@
 +++
 title = "Notes on Windows and Active Directory"
 date = "2025-01-05"
-description = "Tips, tricks and knowledge on Windows and Active Directory"
+description = "The Definitive Guide to Windows and Active Directory"
 
 [taxonomies]
 tags = ["Windows Pentesting", "Active Directory", "Powershell", "Cmd"]
