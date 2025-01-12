@@ -4,36 +4,6 @@ body {
     text-align: justify;
 }
 
-
-.boringinfo{
-	padding: 20px;
-	text-align: center;
-	font-size: 20px;
-	background-color: #fcdf21;
-	color: black;
-	margin-bottom: 15px;
-	
-
-}
-
-.goodcall{
-	padding: 10px;
-	text-align: center;
-	font-size: 20px;
-	background-color: #69d169;
-	color: white;
-
-}
-
-.caution{
-	padding: 20px;
-	text-align: center;
-	font-size: 20px;
-	background-color: #f44336;
-	color: white;
-	margin-bottom; 15px
-}
-
 ::-moz-selection {
     background: blue;
     color: #fff;

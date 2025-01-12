@@ -8,24 +8,24 @@
 
     
         <title>
-             Code &amp; Shield: Insights into Hacking and Software Development
+             VIM for productivity
             
         </title>
 
         
-            <meta property="og:title" content="Code &amp; Shield: Insights into Hacking and Software Development" />
+            <meta property="og:title" content="VIM for productivity" />
         
     
 
     
         
-            <meta property="og:description" content="Explore in-depth articles, tutorials, and analyses on the latest in IT world. From best practices in securing your digital environment to cutting-edge software techniques, Code &amp; Shield is your go-to resource for staying ahead in the tech world.Or just hacking people🎩" />
+            <meta property="og:description" content="Vim cheatsheetg" />
         
     
 
     
         
-            <meta name="description" content="Explore in-depth articles, tutorials, and analyses on the latest in IT world. From best practices in securing your digital environment to cutting-edge software techniques, Code &amp; Shield is your go-to resource for staying ahead in the tech world.Or just hacking people🎩" />
+            <meta name="description" content="Vim cheatsheetg" />
         
     
 
@@ -116,76 +116,86 @@
 
 
         
-        <main class="list">
-            <div class="site-description">
+    
+<main>
+    <article>
+        <div class="title">
+            <h1 class="title">VIM for productivity</h1>
+            <div class="meta">
                 
-                    <p>Explore in-depth articles, tutorials, and analyses on the latest in IT world. From best practices in securing your digital environment to cutting-edge software techniques, Code &amp; Shield is your go-to resource for staying ahead in the tech world.Or just hacking people🎩</p>
+                    Published by <a href="https:&#x2F;&#x2F;github.com&#x2F;barishaxxer" target="_blank">barishaxxer</a>
+                
+                on  2025-01-12
 
                 
             </div>
-    <ul><section class="list-item">
-            <h1 class="title">
-                <a href=https:&#x2F;&#x2F;barishaxxer.github.io&#x2F;posts&#x2F;mvn-jdk-netbeans&#x2F;>Managing JDK Versions and NetBeans&#x2F;Maven Compilation Errors</a>
-            </h1>
+        </div>
 
-            <time>2024-09-23</time>
-            <span>| 1 minute read</span>
-            
-                <span>| Published by <a href="https:&#x2F;&#x2F;github.com&#x2F;barishaxxer" target="_blank">barishaxxer</a></span>
-            
+        
 
-            <br />
-            <div class="description">
-                
-                    Explore practical solutions for managing multiple JDK versions, addressing common compilation issues in NetBeans, and resolving Maven-related errors. Whether you&#x27;re juggling different Java development environments or troubleshooting build problems, this guide offers tips and best practices to streamline your workflow.
-                
-            </div>
+        <section class="body">
+            <div class="caution">
+This article has been written using nano
+</div>
+<div class="boringinfo">
+Press esc type :wq! is answer to how to quit vim
+</div>
+<h1 id="first-of-all">First of all</h1>
+<p>Ensure your tabsize is 4.</p>
+<p>esc + set ts=4</p>
+<h1 id="quick-operations-on-lines">Quick operations on lines</h1>
+<p><strong>yy</strong> -&gt; copy line<br>
+<strong>pp</strong> -&gt; paste<br>
+<strong>dd</strong> -&gt; delete line<br>
+<strong>M</strong> -&gt; moves to middle of lines<br>
+<strong>H</strong> -&gt; moves to the top<br>
+<strong>L</strong> -&gt; moves to the bottom<br>
+<strong>0</strong> -&gt; moves to beginning of the line<br>
+<strong>$</strong> -&gt; moves to the end of the line<br>
+<strong>123gg or press esc then :123</strong> -&gt; move to line 123</p>
+<h1 id="insert-mode">Insert mode</h1>
+<p><strong>fn + delete</strong> -&gt; forward delete</p>
+<h1 id="search-and-replace">Search and Replace</h1>
+<p><strong>%s/regex/new/g</strong> -&gt; replace every match of regex with new </p>
+<div class="goodcall">
+- % indicates to scan all file<br>
+- 1,5 indicates to scan 1 to 5 <br>
+- s indicates substitute mode<br>
+- g indicates change all existence<br>
+- i indicates ignore case
+</div>
+<p><strong>/regex</strong> -&gt; search for regex<br>
+<strong>n</strong> -&gt; moves to next hit<br>
+<strong>N</strong> -&gt; moves to preceding hit</p>
+<h1 id="important-to-consider">Important to consider</h1>
+<p>Vim follows <strong>POSIX Basıc Regular Expression (BRE)</strong> which slightly differs from <strong>Extended Regular Expression (ERE)</strong>.
+BRE tends to treat characters as literals so involves more backslashes to give them special meaning.</p>
+<p>ERE | BRE <br>
+<code>    |      <br>
+{5} | \{5}  <br>
+()  | \(\) <br>
+\b  | \&lt;\&gt;
+</code><br>
+Further information can be found <a href="https://vimregex.com">here</a></p>
 
-            
-                <a class="readmore" href=https:&#x2F;&#x2F;barishaxxer.github.io&#x2F;posts&#x2F;mvn-jdk-netbeans&#x2F;>Read more ⟶</a>
-            
         </section>
 
-    <section class="list-item">
-            <h1 class="title">
-                <a href=https:&#x2F;&#x2F;barishaxxer.github.io&#x2F;posts&#x2F;pager-explode&#x2F;>Israel&#x27;s Cyber Strike: The Pager Explosions Incident</a>
-            </h1>
-
-            <time>2024-09-17</time>
-            <span>| 3 minute read</span>
-            
-                <span>| Published by <a href="https:&#x2F;&#x2F;github.com&#x2F;barishaxxer" target="_blank">barishaxxer</a></span>
-            
-
-            <br />
-            <div class="description">
-                
-                    This article explores the details of Israel&#x27;s cyber attack involving the mysterious and concerning explosion of pagers. Discover how this incident unfolded and the potential implications in the world of cyber warfare.
-                
+        
+            <div class="post-tags">
+                <nav class="nav tags">
+                    <ul class="tags">
+                        
+                            <li><a href=https://barishaxxer.github.io/tags/vim/>Vim</a></li>
+                        
+                    </ul>
+                </nav>
             </div>
-
-            
-                <a class="readmore" href=https:&#x2F;&#x2F;barishaxxer.github.io&#x2F;posts&#x2F;pager-explode&#x2F;>Read more ⟶</a>
-            
-        </section>
-
-    </ul>
-
-        </main>
-
-        
-            <ul class="pagination">
-                
-                    <span class="page-item page-prev">
-                        <a href=https:&#x2F;&#x2F;barishaxxer.github.io&#x2F;page&#x2F;2&#x2F; class="page-link" aria-label="Previous"><span aria-hidden="true">← Previous</span></a>
-                    </span>
-                
-
-                
-            </ul>
         
 
-        
+    </article>
+</main>
+
+
 
         <footer>
   <div style="display:flex">
