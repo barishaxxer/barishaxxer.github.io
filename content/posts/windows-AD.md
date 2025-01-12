@@ -77,7 +77,6 @@ Includes all existing computers in the domain.
 
 OUs are mainly used to define sets of users with similar policing requirements.Security groups are for granting acces on resources.
 
-
 # Authentication Methods in Active directory
 
 All credentials are stored in the Domain controller.
