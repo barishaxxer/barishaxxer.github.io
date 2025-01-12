@@ -14,7 +14,14 @@
         <loc>https://barishaxxer.github.io/page/2/</loc>
     </url>
     <url>
+        <loc>https://barishaxxer.github.io/page/3/</loc>
+    </url>
+    <url>
         <loc>https://barishaxxer.github.io/posts/</loc>
+    </url>
+    <url>
+        <loc>https://barishaxxer.github.io/posts/bash-scripting/</loc>
+        <lastmod>2025-01-11</lastmod>
     </url>
     <url>
         <loc>https://barishaxxer.github.io/posts/calculus-notes/</loc>
@@ -31,6 +38,10 @@
     <url>
         <loc>https://barishaxxer.github.io/posts/pager-explode/</loc>
         <lastmod>2024-09-17</lastmod>
+    </url>
+    <url>
+        <loc>https://barishaxxer.github.io/posts/scripting-roadmap/</loc>
+        <lastmod>2025-01-11</lastmod>
     </url>
     <url>
         <loc>https://barishaxxer.github.io/posts/windows-ad/</loc>
@@ -50,6 +61,9 @@
     </url>
     <url>
         <loc>https://barishaxxer.github.io/tags/algebra/</loc>
+    </url>
+    <url>
+        <loc>https://barishaxxer.github.io/tags/bash/</loc>
     </url>
     <url>
         <loc>https://barishaxxer.github.io/tags/calculus/</loc>
@@ -89,6 +103,12 @@
     </url>
     <url>
         <loc>https://barishaxxer.github.io/tags/rf/</loc>
+    </url>
+    <url>
+        <loc>https://barishaxxer.github.io/tags/roadmap/</loc>
+    </url>
+    <url>
+        <loc>https://barishaxxer.github.io/tags/scripting/</loc>
     </url>
     <url>
         <loc>https://barishaxxer.github.io/tags/sigint/</loc>
