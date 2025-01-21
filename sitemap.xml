@@ -17,14 +17,7 @@
         <loc>https://barishaxxer.github.io/page/3/</loc>
     </url>
     <url>
-        <loc>https://barishaxxer.github.io/page/4/</loc>
-    </url>
-    <url>
         <loc>https://barishaxxer.github.io/posts/</loc>
-    </url>
-    <url>
-        <loc>https://barishaxxer.github.io/posts/bash-scripting/</loc>
-        <lastmod>2025-01-11</lastmod>
     </url>
     <url>
         <loc>https://barishaxxer.github.io/posts/calculus-notes/</loc>
@@ -43,16 +36,8 @@
         <lastmod>2025-01-20</lastmod>
     </url>
     <url>
-        <loc>https://barishaxxer.github.io/posts/mvn-jdk-netbeans/</loc>
-        <lastmod>2024-09-23</lastmod>
-    </url>
-    <url>
         <loc>https://barishaxxer.github.io/posts/pager-explode/</loc>
         <lastmod>2024-09-17</lastmod>
-    </url>
-    <url>
-        <loc>https://barishaxxer.github.io/posts/scripting-roadmap/</loc>
-        <lastmod>2025-01-11</lastmod>
     </url>
     <url>
         <loc>https://barishaxxer.github.io/posts/vim-cheatsheet/</loc>
@@ -78,9 +63,6 @@
         <loc>https://barishaxxer.github.io/tags/algebra/</loc>
     </url>
     <url>
-        <loc>https://barishaxxer.github.io/tags/bash/</loc>
-    </url>
-    <url>
         <loc>https://barishaxxer.github.io/tags/calculus/</loc>
     </url>
     <url>
@@ -102,16 +84,7 @@
         <loc>https://barishaxxer.github.io/tags/discrete-math/</loc>
     </url>
     <url>
-        <loc>https://barishaxxer.github.io/tags/java/</loc>
-    </url>
-    <url>
         <loc>https://barishaxxer.github.io/tags/math/</loc>
-    </url>
-    <url>
-        <loc>https://barishaxxer.github.io/tags/maven/</loc>
-    </url>
-    <url>
-        <loc>https://barishaxxer.github.io/tags/netbeans/</loc>
     </url>
     <url>
         <loc>https://barishaxxer.github.io/tags/network/</loc>
@@ -129,16 +102,7 @@
         <loc>https://barishaxxer.github.io/tags/rf/</loc>
     </url>
     <url>
-        <loc>https://barishaxxer.github.io/tags/roadmap/</loc>
-    </url>
-    <url>
-        <loc>https://barishaxxer.github.io/tags/scripting/</loc>
-    </url>
-    <url>
         <loc>https://barishaxxer.github.io/tags/sigint/</loc>
-    </url>
-    <url>
-        <loc>https://barishaxxer.github.io/tags/tmcbeans/</loc>
     </url>
     <url>
         <loc>https://barishaxxer.github.io/tags/vim/</loc>
