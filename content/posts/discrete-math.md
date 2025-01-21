@@ -9,3 +9,186 @@ tags = ["Discrete Math"]
 [extra]
 author = { name = "barishaxxer", social= "https://github.com/barishaxxer"}
 +++
+
+<style>
+
+.red{
+	color: red;
+
+}
+
+</style>
+# Logic and Proofs
+
+A **proposition** is a declarative sentence that is either true
+or false
+
+**Truth value** of a proposition is denoted by true (T) or false (F).
+
+The negation of p, is denoted by ¬p.
+
+<div class="red">XOR
+
+<div class="relative overflow-hidden shadow-md rounded-lg">
+    <table class="table-fixed w-full text-left">
+        <thead class="uppercase bg-[#6b7280] text-[#e5e7eb]" style="background-color: #6b7280; color: #e5e7eb;">
+            <tr>
+                <td contenteditable="true" class="py-1 border text-center  p-4">p</td>
+                <td contenteditable="true" class="py-1 border text-center  p-4">q</td>
+                <td contenteditable="true" class="py-1 border text-center  p-4">p ⊕ Q</td>
+            </tr>
+        </thead>
+        <tbody class="bg-white text-gray-500 bg-[#FFFFFF] text-[#6b7280]" style="background-color: #FFFFFF; color: #6b7280;">
+            <tr class=" py-5">
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+            </tr>
+            <tr class=" py-5">
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+            </tr>
+            <tr class=" py-5">
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+            </tr>
+            <tr class=" py-5">
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+            </tr>
+        </tbody>
+    </table>
+</div> 
+Conditional Statement
+<div class="relative overflow-hidden shadow-md rounded-lg">
+    <table class="table-fixed w-full text-left">
+        <thead class="uppercase bg-[#6b7280] text-[#e5e7eb]" style="background-color: #6b7280; color: #e5e7eb;">
+            <tr>
+                <td contenteditable="true" class="py-1 border text-center  p-4">p</td>
+                <td contenteditable="true" class="py-1 border text-center  p-4">q</td>
+                <td contenteditable="true" class="py-1 border text-center  p-4">p → Q</td>
+            </tr>
+        </thead>
+        <tbody class="bg-white text-gray-500 bg-[#FFFFFF] text-[#6b7280]" style="background-color: #FFFFFF; color: #6b7280;">
+            <tr class=" py-5">
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+            </tr>
+            <tr class=" py-5">
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+            </tr>
+            <tr class=" py-5">
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+            </tr>
+            <tr class=" py-5">
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<br>
+<div class="relative overflow-hidden shadow-md rounded-lg">
+    <table class="table-fixed w-full text-left">
+        <thead class="uppercase bg-[#6b7280] text-[#e5e7eb]" style="background-color: #6b7280; color: #e5e7eb;">
+            <tr>
+                <td contenteditable="true" class="py-1 border text-center  p-4">Orıgınal</td>
+                <td contenteditable="true" class="py-1 border text-center  p-4">CONVERSE</td>
+                <td contenteditable="true" class="py-1 border text-center  p-4">Inverse</td>
+                <td contenteditable="true" class="py-1 border text-center  p-4">Contraposıtıve</td>
+            </tr>
+        </thead>
+        <tbody class="bg-white text-gray-500 bg-[#FFFFFF] text-[#6b7280]" style="background-color: #FFFFFF; color: #6b7280;">
+            <tr class=" py-5">
+                <td contenteditable="true" class=" py-5 border text-center  p-4">p&nbsp;→ q</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">q&nbsp;→ p</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">¬p&nbsp;→ ¬q</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">¬q → ¬p</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+AND - OR
+
+
+
+<div class="relative overflow-hidden shadow-md rounded-lg">
+    <table class="table-fixed w-full text-left">
+        <thead class="uppercase bg-[#6b7280] text-[#e5e7eb]" style="background-color: #6b7280; color: #e5e7eb;">
+            <tr>
+                <td contenteditable="true" class="py-1 border text-center  p-4">A</td>
+                <td contenteditable="true" class="py-1 border text-center  p-4">B</td>
+                <td contenteditable="true" class="py-1 border text-center  p-4">Y</td>
+            </tr>
+        </thead>
+        <tbody class="bg-white text-gray-500 bg-[#FFFFFF] text-[#6b7280]" style="background-color: #FFFFFF; color: #6b7280;">
+            <tr class=" py-5">
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+            </tr>
+            <tr class=" py-5">
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+            </tr>
+            <tr class=" py-5">
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+            </tr>
+            <tr class=" py-5">
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<div class="relative overflow-hidden shadow-md rounded-lg" style="position: relative; left: 150px; bottom:186px;">
+    <table class="table-fixed w-full text-left">
+        <thead class="uppercase bg-[#6b7280] text-[#e5e7eb]" style="background-color: #6b7280; color: #e5e7eb;">
+            <tr>
+                <td contenteditable="true" class="py-1 border text-center  p-4">A</td>
+                <td contenteditable="true" class="py-1 border text-center  p-4">B</td>
+                <td contenteditable="true" class="py-1 border text-center  p-4">Y</td>
+            </tr>
+        </thead>
+        <tbody class="bg-white text-gray-500 bg-[#FFFFFF] text-[#6b7280]" style="background-color: #FFFFFF; color: #6b7280;">
+            <tr class=" py-5">
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+            </tr>
+            <tr class=" py-5">
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+            </tr>
+            <tr class=" py-5">
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">0</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+            </tr>
+            <tr class=" py-5">
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+                <td contenteditable="true" class=" py-5 border text-center  p-4">1</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+</div>
+
