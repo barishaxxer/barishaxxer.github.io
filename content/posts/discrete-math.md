@@ -18,7 +18,12 @@ author = { name = "barishaxxer", social= "https://github.com/barishaxxer"}
 }
 
 </style>
+<div class="goodcall">
+Recommended to follow <a href="https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/">this </a> as go to resource.
+</div>
+
 # Logic and Proofs
+
 
 A **proposition** is a declarative sentence that is either true
 or false
