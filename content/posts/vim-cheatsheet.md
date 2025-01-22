@@ -35,8 +35,10 @@ esc + set ts=4
 **L** -> moves to the bottom<br>
 **0** -> moves to beginning of the line<br>
 **$** -> moves to the end of the line<br>
-**123gg or press esc then :123** -> move to line 123
-
+**123gg or press esc then :123** -> move to line 123<br>
+**u** -> undo <br>
+**gg** -> to beginning of the file <br>
+**G** -> to the end
 
 
 # Insert mode
